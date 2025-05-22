@@ -121,14 +121,6 @@ You can refer to the included `.env.example` file.
 
 ---
 
-## 🌍 Optional Deployment
-
-- **Frontend**: [Vercel](https://vercel.com/) or [Netlify](https://www.netlify.com/)
-- **Backend**: [Render](https://render.com/) or [Railway](https://railway.app/)
-- Set the environment variables in the deployment platform settings
-
----
-
 ## 📁 .env.example
 
 ```env
@@ -148,7 +140,6 @@ SLACK_WEBHOOK_URL=https://hooks.slack.com/services/...
 - [x] ✅ Professional `README.md`
 - [x] ✅ Slack & LLM setup documented
 - [x] ✅ Fully working app
-- [ ] ⬜ (Optional) Deployed URL added
 
 ---
 
